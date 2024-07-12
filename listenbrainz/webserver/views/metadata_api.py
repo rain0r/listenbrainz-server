@@ -243,7 +243,7 @@ def get_mbid_mapping():
     :type artist_name: ``str``
     :param recording_name: track name of the listen
     :type artist_name: ``str``
-    :param recording_name: release name of the listen
+    :param release_name: release name of the listen
     :type artist_name: ``str``
     :param metadata: should extra metadata be also returned if a match is found,
                      see /metadata/recording for details.
